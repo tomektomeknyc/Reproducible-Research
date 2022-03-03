@@ -1,0 +1,17 @@
+DBI
+RMySQL
+swirl
+dplyr
+readr
+tidyr
+data.table
+jpeg
+plyr
+reshape2
+lubridate
+zoo
+xts
+TTR
+quantmod
+knitr
+ggplot2
